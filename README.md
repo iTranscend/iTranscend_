@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Femi, back-end Node engineer by day & crab pirate by night 🦀 🦀
+I'm Femi, a back-end Node dev by day & crab pirate by night 🦀 🦀
 
 Here are some ideas to get you started:
 
