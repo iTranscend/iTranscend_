@@ -8,8 +8,11 @@ I'm Femi, a back-end Node dev by day & crab pirate by night 🦀 🦀
 - 💬 Ask me about Node.js, Rust & Distributed computing 
 - 📫 How to reach me: [twitter](https://twitter.com/iron_plank) | [linkedin](https://www.linkedin.com/in/femibankole/)
 - 😄 Pronouns: he/him
-- ⚡ Random fact: the dot above i is called a _tittle_
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iTranscend&show_icons=true) 
+
 <!--
+- ⚡ Random fact: the dot above i is called a _tittle_
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 -->
