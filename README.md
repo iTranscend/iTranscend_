@@ -3,13 +3,18 @@
 
 I'm Femi, a back-end Node dev by day & crab pirate by night 🦀 🦀
 
-- 🔭 I’m currently working on [Altmall](https://altmall.ng) & [Near JSON-RPC client](https://github.com/iTranscend/near-jsonrpc-client-rs)
+- 🔭 I’m currently working on [Altmall](https://altmall.ng), [Near JSON-RPC client](https://github.com/iTranscend/near-jsonrpc-client-rs) & CargoC
 - 🌱 I’m currently learning [Substrate](https://substrate.io/)
 - 💬 Ask me about Node.js, Rust & Distributed computing 
 - 📫 How to reach me: [twitter](https://twitter.com/iron_plank) | [linkedin](https://www.linkedin.com/in/femibankole/)
 - 😄 Pronouns: he/him
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iTranscend&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iTranscend&theme=gotham&show_icons=true) 
+
+<!-- langage card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTranscend&hide=html&theme=gotham&layout=compact)
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=iTranscend&theme=gotham)
 
 <!--
 - ⚡ Random fact: the dot above i is called a _tittle_
