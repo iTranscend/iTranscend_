@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Femi, a back-end Node dev by day & crab pirate by night 🦀 🦀
+I'm Femi, a back-end Node dev by day & Rustacean by night 🦀 🦀
 
 - 🔭 I’m currently working on [Altmall](https://altmall.ng), [Near JSON-RPC client](https://github.com/iTranscend/near-jsonrpc-client-rs) & CargoC
 - 🌱 I’m currently learning [Substrate](https://substrate.io/)
