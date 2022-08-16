@@ -3,7 +3,7 @@
 
 I'm Femi, a back-end Node dev by day & Rustacean by night 🦀 🦀
 
-- 🔭 I’m currently working on [Altmall](https://altmall.ng) & [Near JSON-RPC client](https://github.com/iTranscend/near-jsonrpc-client-rs)
+- 🔭 I’m currently working on [Altmall](https://altmall.ng), [Near JSON-RPC client](https://github.com/iTranscend/near-jsonrpc-client-rs) & [webb-tools:protocol-ink](https://github.com/webb-tools/protocol-ink)
 - 🌱 I’m currently learning [Substrate](https://substrate.io/)
 - 💬 Ask me about Node.js, Rust & Distributed computing 
 - 📫 How to reach me: [twitter](https://twitter.com/iron_plank) | [linkedin](https://www.linkedin.com/in/femibankole/)
