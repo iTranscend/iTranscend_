@@ -13,7 +13,9 @@ I'm Femi, a back-end Node dev by day & Rustacean by night 🦀 🦀
 <!-- langage card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTranscend&hide=html&theme=gotham&layout=compact)
 
+<!--
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=iTranscend&theme=gotham)
+-->
 
 <!--
 - ⚡ Random fact: the dot above i is called a _tittle_
