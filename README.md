@@ -10,9 +10,10 @@ I'm Femi, a back-end Node dev by day & Rustacean by night 🦀 🦀
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iTranscend&theme=gotham&show_icons=true) 
 
-<!-- langage card -->
+<!-- language card -->
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTranscend&hide=html&theme=gotham&layout=compact)
-
+-->
 <!--
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=iTranscend&theme=gotham)
 -->
