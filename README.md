@@ -7,7 +7,9 @@ I'm Femi, a blockchain engineer at [MatchX](https://matchx.io/) + [MXC](https://
 - 💬 Ask me about Node.js, Rust, Distributed computing & Blockchain
 - 📫 How to reach me: [twitter](https://twitter.com/iron_plank) | [linkedin](https://www.linkedin.com/in/femibankole/)
 
+<!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iTranscend&theme=gotham&show_icons=true) 
+-->
 
 <!-- language card -->
 <!--
