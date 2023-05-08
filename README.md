@@ -3,7 +3,7 @@
 
 I'm Femi, a blockchain engineer at [MatchX](https://matchx.io/) + [MXC](https://www.mxc.org/) 🦀 🦀
 
-- 🔭 I’m currently working on [DataHighway-DHX](https://github.com/DataHighway-DHX)
+- 🔭 I’m currently working on [DataHighway-DHX](https://github.com/DataHighway-DHX) & [sc-simnode](https://github.com/polytope-labs/sc-simnode)
 - 💬 Ask me about Node.js, Rust, Distributed computing & Blockchain
 - 📫 How to reach me: [twitter](https://twitter.com/iron_plank) | [linkedin](https://www.linkedin.com/in/femibankole/)
 
