@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-I'm Femi, a blockchain engineer at [MatchX](https://matchx.io/) + [MXC](https://www.mxc.org/) 🦀 🦀
+I'm Femi, a blockchain research engineer at [Polytope Labs](https://github.com/polytope-labs) 🦀 
 
-- 🔭 I’m currently working on [DataHighway-DHX](https://github.com/DataHighway-DHX) & [sc-simnode](https://github.com/polytope-labs/sc-simnode)
-- 💬 Ask me about Node.js, Rust, Distributed computing & Blockchain
-- 📫 How to reach me: [twitter](https://twitter.com/iron_plank) | [linkedin](https://www.linkedin.com/in/femibankole/)
+- 💬 Ask me about Rust, Node.js, Distributed computing & Blockchains.
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/femibankole/) | [twitter](https://twitter.com/iron_plank)
 
 <!-- 
+- 🔭 I’m currently working on [DataHighway-DHX](https://github.com/DataHighway-DHX) & [sc-simnode](https://github.com/polytope-labs/sc-simnode)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iTranscend&theme=gotham&show_icons=true) 
 -->
 
