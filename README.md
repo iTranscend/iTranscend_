@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-I'm Femi, a blockchain research engineer at [Polytope Labs](https://github.com/polytope-labs) 🦀 
+I'm Femi, a Decentralized Infrastructure Engineer at [Nillion](https://www.nillion.com/) & blockchain research engineer at [Polytope Labs](https://github.com/polytope-labs) 🦀 
 
-- 💬 Ask me about Rust, Node.js, Distributed computing & Blockchains.
+- 💬 Ask me about Rust, Distributed computing & Blockchains.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/femibankole/) | [twitter](https://twitter.com/iron_plank)
 
 <!-- 
